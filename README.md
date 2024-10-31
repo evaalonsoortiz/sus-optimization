@@ -1,4 +1,4 @@
-# <div align="center">**Susceptibility optimization **</div>
+# <div align="center">**Susceptibility optimization**</div>
 
 This repository contains the code required to perform a minimization algorithm ....
 
