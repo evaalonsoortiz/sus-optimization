@@ -51,6 +51,11 @@ def extract_metrics(path_to_fm, path_to_sc_seg, path_to_vert_levels, path_to_out
     else:
         print("Metrics extracted successfully:", result.stdout)
 
+def extract_auto():
+    pass
+
+    return 1
+
 
 # Example usage
 #path_to_demod_b0 = "C:/Users/User/msc_project/Image-processing-strategies/compare_fieldmap/data/lung_fitting_project/manually_simulated/demodulated/fftshift_bug/demod_fftshift_ISMRM_img.nii.gz"
